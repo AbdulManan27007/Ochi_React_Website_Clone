@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      abc: ["Oswald", "sans-serif"]
+      
+    }
   },
   plugins: [],
 }
