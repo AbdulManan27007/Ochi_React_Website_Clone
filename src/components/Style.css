@@ -1,0 +1,12 @@
+/* In your CSS or SCSS file (e.g., styles.css) */
+@font-face {
+    font-family: 'Founders Grotesk';
+    src: url('/fonts/founders-grotesk.woff2') format('woff2'), /* Adjust the path and format as needed */
+         url('/fonts/founders-grotesk.woff') format('woff');
+  }
+  
+  /* Optionally, you can define utility classes for the font */
+  .font-founders {
+    font-family: 'Founders Grotesk', sans-serif;
+  }
+  
