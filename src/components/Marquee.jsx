@@ -9,7 +9,7 @@ const Marquee = () => {
       // initial={{ x: 0 }}
       // animate={{ x: "-100%" }}
       // transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
-      className='text-[22vw] leading-none uppercase font-abc font-semibold pt-2 mb-3'
+      className='text-[22vw] leading-none uppercase font-abc font-semibold -pt-2 mb-3'
     >
       We are gochi
     </motion.h1>
@@ -17,7 +17,7 @@ const Marquee = () => {
       // initial={{ x: 0 }}
       // animate={{ x: "-100%" }}
       // transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
-      className='text-[22vw] leading-none uppercase font-abc font-semibold pt-2 mb-3'
+      className='text-[22vw] leading-none uppercase font-abc font-semibold -pt-2 mb-3'
     >
       We are gochi
     </motion.h1>
@@ -25,7 +25,7 @@ const Marquee = () => {
       // initial={{ x: 0 }}
       // animate={{ x: "-100%" }}
       // transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
-      className='text-[22vw] leading-none uppercase font-abc font-semibold pt-2 mb-3'
+      className='text-[22vw] leading-none uppercase font-abc font-semibold -pt-2 mb-3'
     >
       We are gochi
     </motion.h1>
