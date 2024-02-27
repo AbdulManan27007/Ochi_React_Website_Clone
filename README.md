@@ -1,6 +1,8 @@
 # Ochi Design Clone
 
-![Ochi Design Clone](link_to_screenshot_or_demo)
+
+![Screenshot 2024-02-27 213622](https://github.com/AbdulManan27007/Ochi_React_Website_Clone/assets/99282337/c9026dfb-b451-4497-8b66-9e7e5a71a9ad)
+
 
 ## Introduction
 
