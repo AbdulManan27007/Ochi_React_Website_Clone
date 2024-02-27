@@ -3,6 +3,7 @@
 
 ![Screenshot 2024-02-27 213622](https://github.com/AbdulManan27007/Ochi_React_Website_Clone/assets/99282337/c9026dfb-b451-4497-8b66-9e7e5a71a9ad)
 
+
 ## Introduction
 
 This project is a clone of the Ochi Design website. Ochi Design is a creative design agency specializing in digital experiences, branding, and visual communication. The purpose of this project is to replicate the design and functionality of the original website as closely as possible.
