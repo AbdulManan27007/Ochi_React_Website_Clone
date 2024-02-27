@@ -37,7 +37,6 @@ const About = () => {
               src="src\Images\Pic.jpg"
               alt="Abdul Manan"
               className="absolute inset-0  w-full h-full object-cover rounded-3xl"
-              
             />
           </div>
         </div>
